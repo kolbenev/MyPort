@@ -19,7 +19,7 @@ export default function LibertyVpnPage() {
             <img
               src={logo}
               alt="Liberty VPN"
-              className="w-14 h-14 md:w-16 md:h-16 rounded-2xl object-cover bg-black/20 shadow-[0_0_24px_rgba(243,196,142,0.12)]"
+              className="w-14 h-14 md:w-16 md:h-16 aspect-square rounded-full object-cover bg-black/20 shadow-[0_0_24px_rgba(243,196,142,0.12)]"
               draggable="false"
             />
             <div className="leading-tight">
