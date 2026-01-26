@@ -164,7 +164,7 @@ export default function BananaPage() {
       </div>
 
       <div className="mt-14 md:mt-16">
-        <SectionTitle title="Визуально" subtitle={null} />
+        <SectionTitle title="" subtitle={null} />
         <ProjectBanner
           src={banner}
           alt="BananaBot — баннер проекта"
