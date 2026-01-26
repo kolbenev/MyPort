@@ -64,15 +64,6 @@ export default function LibertyVpnPage() {
             >
               Обсудить похожий проект →
             </a>
-
-            <a
-              href="/#/libertyvpn/#/?scroll=details"
-              className="px-6 py-3 rounded-full text-[#D4A35F]
-                         bg-black/20 hover:bg-[#F3C48E]/10 transition-all
-                         outline-none focus:ring-2 focus:ring-[#F3C48E]/40"
-            >
-              Подробнее ↓
-            </a>
           </div>
         </div>
 
