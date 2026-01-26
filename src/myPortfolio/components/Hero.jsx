@@ -151,12 +151,6 @@ export default function Hero() {
           <br />и я программист.
         </motion.h1>
       </motion.div>
-
-      <div
-        className="absolute top-0 left-0 w-full h-40
-        bg-gradient-to-b from-[#0A0A0F] via-[#0A0A0F]/80 to-transparent pointer-events-none"
-      />
-
       <div
         className="absolute bottom-0 left-0 w-full h-40
         bg-gradient-to-t from-[#0A0A0F] via-[#0A0A0F]/80 to-transparent pointer-events-none"
