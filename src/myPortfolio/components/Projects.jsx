@@ -136,7 +136,7 @@ export default function Projects({ items = PROJECTS }) {
 
         <div className="mt-10 md:mt-14">
           <a
-            href="https://kwork.ru/user/kolbenevds"
+            href="https://t.me/kolbenevds"
             target="_blank"
             rel="noreferrer"
             className={[
@@ -155,7 +155,7 @@ export default function Projects({ items = PROJECTS }) {
                   Хотите посмотреть больше работ?
                 </div>
                 <div className="mt-1 text-[#CBB892]">
-                  Перейти в профиль на Kwork
+                  Напишите мне в Telegram
                 </div>
               </div>
 
