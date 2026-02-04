@@ -137,7 +137,7 @@ export default function About() {
                 />
               </a>
               <a
-                href="https://t.me/kolbenevds"
+                href="https://t.me/devkolbenev"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Telegram"

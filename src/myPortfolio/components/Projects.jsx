@@ -136,7 +136,7 @@ export default function Projects({ items = PROJECTS }) {
 
         <div className="mt-10 md:mt-14">
           <a
-            href="https://t.me/kolbenevds"
+            href="https://t.me/devkolbenev"
             target="_blank"
             rel="noreferrer"
             className={[

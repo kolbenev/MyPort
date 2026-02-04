@@ -113,7 +113,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://t.me/kolbenevds"
+            href="https://t.me/devkolbenev"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center justify-center

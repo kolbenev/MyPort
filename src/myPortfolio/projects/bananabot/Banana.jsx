@@ -52,7 +52,7 @@ export default function BananaPage() {
 
           <div className="mt-8 flex flex-wrap gap-3">
             <a
-              href="https://t.me/kolbenevds"
+              href="https://t.me/devkolbenev"
               target="_blank"
               rel="noreferrer"
               className="px-6 py-3 rounded-full text-[#F3C48E]
@@ -217,7 +217,7 @@ export default function BananaPage() {
             </div>
 
             <a
-              href="https://t.me/kolbenevds"
+              href="https://t.me/devkolbenev"
               target="_blank"
               rel="noreferrer"
               className="px-6 py-3 rounded-full text-[#F3C48E]
